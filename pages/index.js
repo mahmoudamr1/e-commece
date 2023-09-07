@@ -8,7 +8,7 @@ import Section_1 from '../components/Section_1';
 import Section_2 from '../components/Section_2';
 import Slider_2 from '../components/Slider-2';
 
-import Slider_1 from '../components/slider';
+import Slider_1 from '../components/Slider';
 
 
 
